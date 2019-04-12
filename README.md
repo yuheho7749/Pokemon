@@ -1,7 +1,7 @@
 # Pokemon
 APCS Group Final Project for Mr. Carr (Year: 2019).
 This is a open world strategy role playing game designed for personal used. Any similarities in design features and mechanics to other existing games are purely coincidences.
-* Warning - This game is still in the early stages of development. Many graphics, mechanics, or features are not yet available.
+* Warning - This game is still in the early stages of development. Many graphics, mechanics, or features are not yet available. We also plan to convert the files into a .jar file for easy access in the final release.
 ## Getting Started
 * Windows:
 1. Download and unzip the "Pokemon" zip file
@@ -18,8 +18,8 @@ This is a open world strategy role playing game designed for personal used. Any 
 7. Paste the contents of "Compile_And_Run.bat" in the terminal and press enter
 8. The application should launch with default settings
 * For custom settings when running the application (Intended for Development)
-1. Default launch: java -cp bin main.Main
-2. Custom launch: java -cp bin main.Main dft:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]
+1. Default launch: "java -cp bin main.Main"
+2. Custom launch: "java -cp bin main.Main dft:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]"
 ## Prerequisites
 * Requires Java JDK version 8 or above
 * For Java JDK 9, there is a minor visual bug due to some unknown reason (Game mechanics are functional)

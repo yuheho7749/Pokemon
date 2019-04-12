@@ -17,8 +17,8 @@ This is a open world strategy role playing game designed for personal used. Any 
 7. Paste the contents of "Compile_And_Run.bat" in the terminal and press enter
 8. The application should launch with default settings
 ## Prerequisites
-Requires Java JDK version 8 or above
-For Java JDK 11, make sure to have JavaFX installed
+* Requires Java JDK version 8 or above
+* For Java JDK 11, make sure to have JavaFX installed
 ## Authors
 * Joseph Ng - Initial work and project contributor
 * Alex Guan - Project Contributor

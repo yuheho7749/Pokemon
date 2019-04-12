@@ -20,8 +20,8 @@ This is a open world strategy role playing game designed for personal used. Any 
 8. The application should launch with default settings
 * For custom settings when running the application [in the terminal/command prompt] (Intended for Development)
 0. Compile files: "javac -d bin src/main/*.java src/character/*.java src/map/*.java src/item/*.java src/move/*.java src/pokemon/*.java src/tile/*.java src/building/*.java src/battlemap/*.java"
-1. Default launch: "java -cp bin main.Main"
-2. Custom launch: "java -cp bin main.Main dft:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]"
+1. Default launch: "java -cp bin main.Pokemon"
+2. Custom launch: "java -cp bin main.Pokemon pre:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]"
 ## Prerequisites
 * Requires Java JDK version 8 or above
 * For Java JDK 9, there is a minor visual bug due to some unknown reason (Game mechanics are functional)

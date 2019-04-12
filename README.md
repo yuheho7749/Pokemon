@@ -30,6 +30,6 @@ This is a open world strategy role playing game designed for personal used. Any 
 * Joseph Ng - Initial work and project contributor
 * Alex Guan - Project Contributor
 * John Liu - Project Contributor
-* Mathew - Project Contributor
+* Natthapat Chianchitlert (aka Mathew) - Project Contributor
 ## Acknowledgments
 * Nintendo Pokemon Game (Please don't sue me. This is only a fan made project for personal uses)

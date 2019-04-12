@@ -17,7 +17,8 @@ This is a open world strategy role playing game designed for personal used. Any 
 6. Navigate the terminal directory to inside the "Pokemon" folder
 7. Paste the contents of "Compile_And_Run.bat" in the terminal and press enter
 8. The application should launch with default settings
-* For custom settings when running the application (Intended for Development)
+* For custom settings when running the application [in the terminal/command prompt] (Intended for Development)
+0. Compile files: javac -d bin src/main/*.java src/character/*.java src/map/*.java src/item/*.java src/move/*.java src/pokemon/*.java src/tile/*.java src/building/*.java src/battlemap/*.java
 1. Default launch: "java -cp bin main.Main"
 2. Custom launch: "java -cp bin main.Main dft:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]"
 ## Prerequisites

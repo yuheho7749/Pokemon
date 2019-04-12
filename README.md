@@ -27,7 +27,7 @@ This is a open world strategy role playing game designed for personal used. Any 
 * For Java JDK 9, there is a minor visual bug due to some unknown reason (Game mechanics are functional)
 * For Java JDK 11, make sure to have JavaFX installed
 ## Authors
-* Joseph Ng - Initial work and project contributor
+* Joseph Ng - Initial Work and Project Contributor
 * Alex Guan - Project Contributor
 * John Liu - Project Contributor
 * Natthapat Chianchitlert (aka Mathew) - Project Contributor

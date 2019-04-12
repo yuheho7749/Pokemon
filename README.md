@@ -1,5 +1,5 @@
 # Pokemon
-APCS Group Final Project for Mr. Carr. (Year: 2019)
+APCS Group Final Project for Mr. Carr (Year: 2019).
 This is a open world strategy role playing game designed for personal used. Any similarities in design features and mechanics to other existing games are purely coincidences.
 ## Getting Started
 * Windows:
@@ -18,6 +18,7 @@ This is a open world strategy role playing game designed for personal used. Any 
 8. The application should launch with default settings
 ## Prerequisites
 * Requires Java JDK version 8 or above
+* For Java JDK 9, there is a minor visual bug due to some unknown reason (Game mechanics are functional)
 * For Java JDK 11, make sure to have JavaFX installed
 ## Authors
 * Joseph Ng - Initial work and project contributor

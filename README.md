@@ -1,6 +1,7 @@
 # Pokemon
 APCS Group Final Project for Mr. Carr (Year: 2019).
 This is a open world strategy role playing game designed for personal used. Any similarities in design features and mechanics to other existing games are purely coincidences.
+* Warning - This game is still in the early stages of development. Many graphics, mechanics, or features are not yet available.
 ## Getting Started
 * Windows:
 1. Download and unzip the "Pokemon" zip file

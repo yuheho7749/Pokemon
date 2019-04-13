@@ -3,6 +3,10 @@ APCS Group Final Project for Mr. Carr (Year: 2019).
 This is a open world strategy role playing game designed for personal use. Any similarities in design features and mechanics to other existing games are purely coincidences.
 * Warning - This game is still in the early stages of development. Many graphics, mechanics, or features are not yet available. We also plan to convert the files into a .jar file for easy access in the final release.
 * IMPORTANT - This project belong solely to the authors listed below. We welcome you to test our project and provide feedback. However, you may not distribute or reproduce all or in part of this project without our permission.
+## Prerequisites
+* Requires Java JDK version 8 or above
+* For Java JDK 9, there is a minor visual bug due to some unknown reason (Game mechanics are functional)
+* For Java JDK 11, make sure to have JavaFX installed
 ## Getting Started
 * Windows:
 1. Download and unzip the "Pokemon" zip file
@@ -22,10 +26,10 @@ This is a open world strategy role playing game designed for personal use. Any s
 0. Compile files: "javac -d bin src/main/*.java src/character/*.java src/map/*.java src/item/*.java src/move/*.java src/pokemon/*.java src/tile/*.java src/building/*.java src/battlemap/*.java"
 1. Default launch: "java -cp bin main.Pokemon"
 2. Custom launch: "java -cp bin main.Pokemon pre:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]"
-## Prerequisites
-* Requires Java JDK version 8 or above
-* For Java JDK 9, there is a minor visual bug due to some unknown reason (Game mechanics are functional)
-* For Java JDK 11, make sure to have JavaFX installed
+## Game Controls
+* WASD - movement controls (arrow keys also work)
+* J - selection button
+* K - deselection/back button
 ## Authors
 * Joseph Ng - Initial Work and Project Contributor
 * Alex Guan - Project Contributor

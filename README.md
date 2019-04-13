@@ -2,7 +2,7 @@
 APCS Group Final Project for Mr. Carr (Year: 2019).
 This is a open world strategy role playing game designed for personal use. Any similarities in design features and mechanics to other existing games are purely coincidences.
 * Warning - This game is still in the early stages of development. Many graphics, mechanics, or features are not yet available. We also plan to convert the files into a .jar file for easy access in the final release.
-* IMPORTANT - This project belong solely to the authors listed below. We welcome you to test our project and provide feedback. However, you may not distribute or reproduce all or in part of this project without our permission.
+* IMPORTANT - This project belong solely to the authors listed below. We welcome you to test our project and provide feedback in the "Issues" page. However, you may not distribute or reproduce all or in part of this project without our permission.
 ## Prerequisites
 * Requires Java JDK version 8 or above
 * For Java JDK 9, there is a minor visual bug due to some unknown reason (Game mechanics are functional)

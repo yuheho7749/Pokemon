@@ -15,7 +15,7 @@ This is a open world strategy role playing game designed for personal use. Any s
 4. The application should launch with default settings automatically
 * Mac:
 1. Download and unzip the Pokemon zip file
-2. Navigate inside the pokemon folder (You should see a "Compile_And_Run.bat" file)
+2. Navigate inside the "Pokemon" folder (You should see a "Compile_And_Run.bat" file)
 3. Open "Compile_And_Run.bat" inside a text editor (Do not double click)
 4. Copy the contents inside the "Compile_And_Run.bat" file
 5. Open the terminal

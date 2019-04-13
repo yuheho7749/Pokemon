@@ -37,4 +37,5 @@ This is a open world strategy role playing game designed for personal use. Any s
 * John Liu - Project Contributor
 * Natthapat Chianchitlert (aka Mathew) - Project Contributor
 ## Acknowledgments
-* Nintendo Pokemon Game (Please don't sue me. This is only a fan made project for personal uses)
+* Course Instructor - Mr. Jeron Carr
+* Inspired by Nintendo Pokemon Game (Please don't sue me. This is only a fan made project for personal uses)

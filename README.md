@@ -27,9 +27,10 @@ This is a open world strategy role playing game designed for personal use. Any s
 1. Default launch: "java -cp bin main.Pokemon"
 2. Custom launch: "java -cp bin main.Pokemon pre:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]"
 ## Game Controls
-* WASD - movement controls (arrow keys also work)
-* J - selection button
-* K - deselection/back button
+* ESCAPE - Force closes the program
+* WASD - Movement controls (arrow keys also work)
+* J - Selection button
+* K - Deselection/back button
 ## Authors
 * Joseph Ng - Initial Work and Project Contributor
 * Alex Guan - Project Contributor

@@ -24,8 +24,8 @@ This is a open world strategy role playing game designed for personal use. Any s
 8. The application should launch with default settings
 * For custom settings when running the application [in the terminal/command prompt] (Intended for Development)
 0. Compile files: "`javac -d bin src/main/*.java src/character/*.java src/map/*.java src/item/*.java src/move/*.java src/pokemon/*.java src/tile/*.java src/building/*.java src/battlemap/*.java`"
-1. Default launch: "`java -cp bin main.Pokemon`"
-2. Custom launch: "`java -cp bin main.Pokemon pre:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]`"
+1. Default launch: "`java -Xmx8192m -cp bin main.Pokemon`"
+2. Custom launch: "`java -Xmx8192m -cp bin main.Pokemon pre:[boolean] fps:[int] scl:[int] hbx:[boolean] vis:[boolean] col:[boolean]`"
 ## Game Controls
 * ESCAPE - Force closes the program
 * WASD - Movement controls (arrow keys also work)
